@@ -1,3 +1,4 @@
+
 -- get the count(deathdate) and multiply by 100.0
 -- then divide by count(*)
 SELECT COUNT(DEATHDATE)*100.0/COUNT(*)
